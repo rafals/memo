@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="classes"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/plugins/clojure_0.0.0.20090120_r1217_compile_patch"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/plugins/clojurecontrib_0.0.0.20090120_r394.jar"/>
+	<classpathentry kind="lib" path="/Users/ravsobota/.clojure/hsqldb.jar"/>
+	<classpathentry kind="lib" path="/Users/ravsobota/.clojure/lazy-map-2.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
